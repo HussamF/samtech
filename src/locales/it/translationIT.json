@@ -1,0 +1,41 @@
+{
+  "navService": "Servizi",
+  "navProjects": "Progetti",
+  "navContact": "Contatti",
+  "navAbout": "Chi Sono",
+  "who": "web designer e sviluppo freelance in Italia-Roma",
+  "aboutBTN": "Chi sono",
+  "topline1": "Chi Sono",
+  "headline1": "L'area principale della mia esperienza è lo sviluppatore front-end, HTML, CSS, JS, React ,  costruisce Web-App di piccole e medie dimensioni, plug-in personalizzati, funzionalità, animazioni e layout interattivi di codifica. CMS open source",
+  "description1": "Conttatami , sono disposto a lavorare anche in team.",
+  "buttonLable1": "Vedi I MIEI lavori",
+  "topline2": "SITI WEB RESPONSIVE",
+  "headline2": "Un design reattivo rende il tuo sito web accessibile a tutti gli utenti indipendentemente dal loro dispositivo.",
+  "description2": "Vedi i servizi che offro",
+  "buttonLable2": "Servizi",
+  "topline3": "SITI WEB PERSONALI",
+  "headline3": "Progetta e sviluppa app accattivanti, interfacce intuitive e marchi accattivanti. Tutto ciò contribuisce a migliorare la risposta, aumentare le vendite e aumentare la redditività.",
+  "description3": "Conttatami, per ricevere le mie offerte esclusive per i design e anche per lo sviluppo,",
+  "buttonLable3": "Contattami",
+
+  "1servicesH2": "Sviluppo front-end",
+  "1servicesP": "Siti Web reattivi creati per un'esperienza utente ottimale che raggiunge i tuoi obiettivi di business.",
+
+  "2servicesH2": "Siti Web CMS",
+  "2servicesP": "Creazione di siti Web utilizzando il sistema di gestione dei contenuti per un facile utilizzo e una facile gestione dei contenuti.",
+  "3servicesH2": "E-commerce",
+  "3servicesP": "Integrazione di piattaforme di e-commerce, gateway di pagamento, modelli di prodotti personalizzati e altro ancora.",
+
+  "contactHeader": "Contatti",
+  "contactP": "Per maggiori informazioni.",
+  "contactInfoH4": "Informazioni di contatto",
+  "contactInfoP": "Compila il modulo e ti ricontatterò entro 24 ore.",
+  "iconInfoSpanPhone": "Telefono : +39 327 307 0765",
+
+  "iconInfoSpanAdress": "Indirizzo : Italy-Rome",
+  "formContactFirst": "Nome",
+  "formContactLast": "Cognome",
+  "formContactPhone": "Telefono",
+  "formContactMsg": "Messaggio",
+  "formContactSend": "Invia Messaggio"
+}
